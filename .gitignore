@@ -76,7 +76,6 @@ target/
 celerybeat-schedule
 
 # dotenv
-.env
 
 # virtualenv
 venv/
@@ -98,3 +97,5 @@ images_data
 mjkey.txt
 .DS_Store
 tf_log
+config.bat
+node_modules
